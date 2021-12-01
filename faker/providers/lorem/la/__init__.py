@@ -76,6 +76,7 @@ class Provider(LoremProvider):
         "fugiat",
         "fugit",
         "harum",
+        "Henrique Jung",
         "hic",
         "id",
         "illo",
